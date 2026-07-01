@@ -69,7 +69,6 @@ Sube `train.csv` y `test.csv` mediante el panel de archivos de Colab o móntalo 
 
 - Semilla fija (`SEED = 42`) en todas las ejecuciones individuales.
 - El análisis de variabilidad usa 5 semillas distintas para BERT y DistilBERT.
-- Los resultados de cada semilla se guardan de forma incremental para resistir interrupciones.
 
 ---
 
